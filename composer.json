@@ -1,0 +1,15 @@
+{
+    "name": "tc/php-mvc-practice",
+    "autoload": {
+        "psr-4": {
+            "Tc\\PhpMvcPractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tarotaro",
+            "email": "121074629+sourse-taro@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
