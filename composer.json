@@ -2,7 +2,7 @@
     "name": "soursetaro/php-mvc-practice",
     "autoload": {
         "psr-4": {
-            "soursetaro\\PhpMvcPractice\\": "src/"
+            "thecodeholic\\phpmvc": "./"
         }
     },
     "authors": [

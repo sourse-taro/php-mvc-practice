@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core\form;
-use app\core\Model;
+namespace thecodeholic\phpmvc\form;
+use thecodeholic\phpmvc\Model;
 
 abstract class BaseField
 {

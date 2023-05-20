@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core;
+namespace thecodeholic\phpmvc;
 
-use app\core\Router;
-use app\core\Request;
-use app\core\Response;
-use app\core\Session;
-use app\core\db\Database;
-use app\core\db\DbModel;
-use app\core\Controller;
-use app\core\View;
+use thecodeholic\phpmvc\Router;
+use thecodeholic\phpmvc\Request;
+use thecodeholic\phpmvc\Response;
+use thecodeholic\phpmvc\Session;
+use thecodeholic\phpmvc\db\Database;
+use thecodeholic\phpmvc\db\DbModel;
+use thecodeholic\phpmvc\Controller;
+use thecodeholic\phpmvc\View;
 
 class Application {
 

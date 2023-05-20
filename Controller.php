@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace thecodeholic\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use thecodeholic\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
