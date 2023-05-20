@@ -1,5 +1,5 @@
 {
-    "name": "tc/php-mvc-practice",
+    "name": "soursetaro/php-mvc-practice",
     "autoload": {
         "psr-4": {
             "soursetaro\\PhpMvcPractice\\": "src/"
